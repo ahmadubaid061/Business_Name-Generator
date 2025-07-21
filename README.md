@@ -26,4 +26,4 @@ This project is a simple, creative **Business Name Generator** built using **HTM
 
 # Clone the repository:
    ```bash
-   git clone https://github.com/your-username/business-name-generator.git
+   git clone https://github.com/ahmadubaid061/Business_Name-Generator
